@@ -79,7 +79,7 @@ export default function App() {
               <img
                 alt="Family gathering"
                 className="w-full h-full object-cover"
-                src="https://lh3.googleusercontent.com/aida-public/AB6AXuDrfmhU0hzw_4glyngD-HYrq4us8orWUiP0ROzQINjaNFjGJOKHzYlHdkjoJNARLhkVmdZvGpKb8cNWTpQOWXXdyQh2ZIIYBdkUNQF7vBkZBirsVKEZzGkBqoPxRSvdfAq9T-1zwwzQ1tCaoZn7Hd-XQdWAFAMBupyzuV4iuFIAkEdBl3F3QFb8x7fvuWwrqvTflO0Zp-IGyM87sBXp-gliAq9wEEwgJucVQbAuFYJ0SPs0zzhSkT8ui4T12DYOFEGWWMiffqJXTyo"
+                src="https://images.unsplash.com/photo-1511895426328-dc8714191300?auto=format&fit=crop&w=1200&q=80"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
             </div>
@@ -164,7 +164,7 @@ export default function App() {
                         <img
                           alt="Vintage couple"
                           className="w-full"
-                          src="https://lh3.googleusercontent.com/aida-public/AB6AXuCz_L2C5hMbUBAzEFNopBIM1j-BZqC9XoYsE-TS_R5kC2x5IPKXKEDOc8DcTJizIOtKv4qMH5A_6u1QjNRTBO1CMmH6T5bqiuqS2YmtkdyBRYHizDfasgcegMyujaMnrO-Lr6o8cTND_yPdpHYqitEEE3mGRqExO-1FexOn1RzSFEQmvbxpJLb0LKsA0NpSCY2CoOfNqZE892QLIfkcYYyOAKbb_LAHYdjw-ki_Bl80rqJUmPLcke8Y6C5UMu8ucj5sRauE0FFJuoI"
+                          src="https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=800&q=80"
                         />
                       </div>
                       <p className="mt-3 font-display-lg text-body-md text-primary italic text-center">
@@ -176,7 +176,7 @@ export default function App() {
                         <img
                           alt="Baby hands"
                           className="w-full"
-                          src="https://lh3.googleusercontent.com/aida-public/AB6AXuAh36_m-h6oscLmCrPQsUj_Th2pKGPsvcrWVWyUe1xukgUAWJr85U6TukHnPjJx0btmRFPCfIPX6dAakGc7YBwUUAhVkJhG9bFVGASQVJcV937HnrY4jpBq09CoUPEvwISGGzDu9EQefxaKPbBLjYVqz6K3Z_ViCKaOU8EOUff9zkte9kYso_P5umE1ezAn2_7QAtn43pv5lae7V57zuCu8X1O48w_cbQAylg_tojuQ4GTXF0CMyYfOCYb5STTeZXbZ74HB3YK5P7s"
+                          src="https://images.unsplash.com/photo-1536640712-4d4c36ff0e4e?auto=format&fit=crop&w=800&q=80"
                         />
                       </div>
                       <p className="mt-3 font-display-lg text-body-md text-primary italic text-center">
@@ -188,7 +188,7 @@ export default function App() {
                         <img
                           alt="Old house"
                           className="w-full"
-                          src="https://lh3.googleusercontent.com/aida-public/AB6AXuBhS46KnKWVMsC-l5M1HiAEryWQ_5t6kV7lsKpp2lXtuVF9tb4jpUKI6YeavzQgxbsxtZihR8kYh2bdWOeVkc38NnmTYkrIdshBZ4-HsFHDUsnMSrtAlVLlX_KQzqg5Q_R5-z6FgE6xU6TtBxso1ddd9IWUg-0SjTT-3hMyyY-9G39rTcocWrSR6Kn6CyA_0S0ncTyjKoxblMrw7FIIHaBYv_WjdeG8NW3zsEIgKwxbWJYqf2tgzSnq3-Xk7LSYivRiTz0rUry1Kl0"
+                          src="https://images.unsplash.com/photo-1500076656116-558758c991c1?auto=format&fit=crop&w=1200&q=80"
                         />
                       </div>
                       <p className="mt-3 font-display-lg text-body-md text-primary italic text-center">
@@ -215,7 +215,7 @@ export default function App() {
                         <img
                           alt="Birthday party"
                           className="w-full"
-                          src="https://lh3.googleusercontent.com/aida-public/AB6AXuC4W5c5MFn9UPcrZLe-f177FchJwyZZQz0migjs8z1XOKqBsrgZmaxs-Nm5axGGTD9EiDBpI8VXKc_i13xcAeqYkxLOu1ym3k6D1cy3TRt3KkaMwQRFpU0cz7CuIDAUNgLiRpSTOXTxTapXknwrYaE1pw0UpYoq9q3lI4MQQg5z_CFsYn-dgCjW-m8SfjtfXoYexSk6dNH2sp7X3yx-8lyUVhOy0ykWjEPFnPjOnZyqhSHkIWURgWAZq5Mpclu6SBMNC65rnNnVb9E"
+                          src="https://images.unsplash.com/photo-1530103862676-de8c9debad1d?auto=format&fit=crop&w=800&q=80"
                         />
                       </div>
                       <p className="mt-3 font-display-lg text-body-md text-primary italic text-center">
@@ -237,7 +237,7 @@ export default function App() {
                         <img
                           alt="Scenic"
                           className="w-full aspect-[3/4] object-cover"
-                          src="https://lh3.googleusercontent.com/aida-public/AB6AXuDrfmhU0hzw_4glyngD-HYrq4us8orWUiP0ROzQINjaNFjGJOKHzYlHdkjoJNARLhkVmdZvGpKb8cNWTpQOWXXdyQh2ZIIYBdkUNQF7vBkZBirsVKEZzGkBqoPxRSvdfAq9T-1zwwzQ1tCaoZn7Hd-XQdWAFAMBupyzuV4iuFIAkEdBl3F3QFb8x7fvuWwrqvTflO0Zp-IGyM87sBXp-gliAq9wEEwgJucVQbAuFYJ0SPs0zzhSkT8ui4T12DYOFEGWWMiffqJXTyo"
+                          src="https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?auto=format&fit=crop&w=1200&q=80"
                         />
                       </div>
                       <p className="mt-3 font-display-lg text-body-md text-primary italic text-center">
@@ -260,7 +260,7 @@ export default function App() {
               <img
                 alt="Archive album"
                 className="w-full h-full object-cover"
-                src="https://lh3.googleusercontent.com/aida-public/AB6AXuBhS46KnKWVMsC-l5M1HiAEryWQ_5t6kV7lsKpp2lXtuVF9tb4jpUKI6YeavzQgxbsxtZihR8kYh2bdWOeVkc38NnmTYkrIdshBZ4-HsFHDUsnMSrtAlVLlX_KQzqg5Q_R5-z6FgE6xU6TtBxso1ddd9IWUg-0SjTT-3hMyyY-9G39rTcocWrSR6Kn6CyA_0S0ncTyjKoxblMrw7FIIHaBYv_WjdeG8NW3zsEIgKwxbWJYqf2tgzSnq3-Xk7LSYivRiTz0rUry1Kl0"
+                src="https://images.unsplash.com/photo-1457369804613-52c61a468e7d?auto=format&fit=crop&w=1200&q=80"
               />
             </div>
             <div className="absolute -top-6 -right-6 w-32 h-32 bg-primary-fixed/20 rounded-full blur-2xl"></div>
